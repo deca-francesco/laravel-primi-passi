@@ -4,7 +4,7 @@ Iniziamo a muovere i primi passi con questo fantastico framework che è Laravel!
 
 ## Svolgimento
 Per prima cosa, creiamo un nuovo progetto Laravel 11, utilizzando questo comando:
-- composer create-project --prefer-dist laravel/laravel:^11.0 larave-primi-passi
+- composer create-project --prefer-dist laravel/laravel:^11.0 laravel-primi-passi
 
 Al termine dell'installazione, entriamo nella cartella del progetto:
 - cd laravel-primi-passi
